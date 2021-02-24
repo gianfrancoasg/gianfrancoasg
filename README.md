@@ -1,4 +1,13 @@
-### Hi there 👋
+# Gianfranco Saraullo 
+**Mechatronics Student**
+
+As a future Engineer, I am constantly participating in different projects and work at university.
+
+One of my most beneficial experiences has been the planning and construction of a self-autonomous buggy that will follow a line on the floor. 
+I will be working with an STM32F401 Microcontroller in order to do this project using embed to program it.
+
+My Electronics A level project consisted of the construction of an Incubator with only logic gates and simple electronics devices. Making my own Analogue to digital converter in order to measure the room temperature and make changes to warm the incubator or make it cooler if necessary.
+
 
 <!--
 **gianfrancoasg/gianfrancoasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
